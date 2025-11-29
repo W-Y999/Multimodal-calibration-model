@@ -1,3 +1,25 @@
+# Data Proofreading Model
+
+🌐 **Languages | 语言**
+
+- 🇨🇳 [简体中文 README](README.ZH.md)
+- 🇺🇸 [English README](README.EN.md)
+
+---
+
+## 📘 Description
+
+This repository contains a lightweight multi-modal model for score rationality checking.  
+Please select a language above to read more details.
+
+---
+
+## 📗 项目简介
+
+本仓库提供一个轻量级多模态校对模型。  
+请点击上方选择语言阅读完整文档。
+
+
 ## **📌 1. 项目简介（Project Overview）**
 
 本项目旨在构建一个轻量级的**多模态校对模型**，用于对问卷或评价类数据进行自动合理性预测。
